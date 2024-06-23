@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    /* padding: 0; */
+}
+
+
+
+.box1 {
+
+    /* border: 2px solid red; */
+    width: 300px;
+    margin: 0;
+    padding: 03px;
+    display: flex;
+
+}
+
+.box2 {
+    font-style: italic;
+    text-align: left;
+    padding: 06px;
+    color: rgb(0, 247, 255);
+
+}
+
+.box3 {
+    color: blue;
+    /* border-color: blue; */
+    border: 2px solid blue;
+    width: 90px;
+   padding: 03px;
+   text-align: left;
+
+}
+.box4 {
+    color: red;
+    padding: 03px;
+    text-align: left;
+}
+
+
+
+
